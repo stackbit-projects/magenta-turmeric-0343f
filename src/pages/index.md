@@ -18,7 +18,7 @@ sections:
     title: Altostratus Platform Status
     subtitle: Check out the health of the platform and services
     actions:
-      - label: Check status
+      - label: Check Status
         url: /signup
         style: primary
   - section_id: recent-posts
