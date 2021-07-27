@@ -16,7 +16,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Altostratus Platform Status
-    subtitle: Check out the health of our platform and services
+    subtitle: Check out the health of the platform and services
     actions:
       - label: Get Started
         url: /signup
