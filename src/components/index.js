@@ -30,7 +30,7 @@ export {
     FooterNav,
     FooterText,
     FormField,
-    Header,
+    /* Header, */
     Icon,
     SectionContact,
     SectionContent,
