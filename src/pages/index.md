@@ -124,7 +124,7 @@ seo:
     - name: 'twitter:title'
       value: Altostratus
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: The fluid hosting platform
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
