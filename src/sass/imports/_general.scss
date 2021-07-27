@@ -15,7 +15,7 @@ body {
 
   .font-#{$font-suffix} {
     font-family: $stack;
-    font-weight: 300 !important;
+    font-weight: 300;
   }
 }
 
