@@ -115,10 +115,6 @@ seo:
     - name: 'og:description'
       value: The fluid hosting platform
       keyName: property
-    - name: 'og:image'
-      value: images/hero.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:title'
       value: Altostratus
     - name: 'twitter:description'
