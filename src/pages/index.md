@@ -113,7 +113,7 @@ seo:
       value: Altostratus
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The fluid hosting platform
       keyName: property
     - name: 'og:image'
       value: images/hero.png
