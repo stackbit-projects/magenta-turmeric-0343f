@@ -51,7 +51,7 @@ export default class Body extends React.Component {
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
                 </Helmet>
                 <div id="page" className="site">
-                  <Header {...this.props} />
+                  <!--<Header {...this.props} />-->
                   <main id="content" className="site-content">
                     {this.props.children}
                   </main>
