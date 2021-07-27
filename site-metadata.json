@@ -37,7 +37,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/altostratus.png",
+                "image": "images/altostratus_white.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "The fluid hosting platform\n"
