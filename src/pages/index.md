@@ -19,7 +19,7 @@ sections:
     subtitle: Check out the health of the platform and services
     actions:
       - label: Check Status
-        url: /signup
+        url: 'https://status.altostratus.nl/'
         style: primary
   - section_id: recent-posts
     type: section_posts
