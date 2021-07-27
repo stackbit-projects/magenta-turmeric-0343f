@@ -119,8 +119,6 @@ seo:
       value: images/hero.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: Altostratus
     - name: 'twitter:description'
