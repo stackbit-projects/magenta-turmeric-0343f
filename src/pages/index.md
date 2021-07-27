@@ -123,8 +123,5 @@ seo:
       value: Altostratus
     - name: 'twitter:description'
       value: The fluid hosting platform
-    - name: 'twitter:image'
-      value: images/hero.png
-      relativeUrl: true
 template: landing
 ---
