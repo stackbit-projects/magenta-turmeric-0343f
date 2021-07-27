@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/Group 1.png
-    image_alt: App preview
+    image_alt: Cloud stack
     title: Blazing fast hosting
     content: >
       Altostratus provides (web) services as efficiently as possible to
