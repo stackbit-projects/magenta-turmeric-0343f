@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Blazing fast hosting
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Altostratus provides (web) services as efficiently as possible to
+      guarantee the confidentiality, integrity and availability of data.
     actions:
       - label: Learn More
         url: /features
