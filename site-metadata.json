@@ -41,32 +41,6 @@
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "The fluid hosting platform\n"
-            },
-            {
-                "type": "footer_nav",
-                "title": "Altostratus",
-                "nav_links": [
-                    {
-                        "label": "About Us",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
-                    }
-                ]
             }
         ],
         "has_nav": true,
