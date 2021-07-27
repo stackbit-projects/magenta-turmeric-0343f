@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: Altostratus
-  description: The preview of the Azimuth theme
+  description: The fluid hosting platform
   extra:
     - name: 'og:type'
       value: website
